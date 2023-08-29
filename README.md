@@ -1,7 +1,8 @@
 # Javascript-Trick-Accordion
 ## [Demo Trick](https://p-stn.github.io/Javascript-Trick-Accordion/)
 
-![accordon](https://github.com/p-stn/Javascript-Trick-Accordion-/assets/63667741/c9971c5e-b489-44eb-8684-862b1d450ede)
+![accordon](https://github.com/p-stn/Javascript-Trick-Accordion/assets/63667741/863c70a1-1190-4a09-b532-6b8810be01b3)
+
 
 
 
